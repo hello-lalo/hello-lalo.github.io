@@ -23,5 +23,4 @@ collections:
     output: true
 
 # Plugin
-plugins:
-- jekyll-autoprefixer
+

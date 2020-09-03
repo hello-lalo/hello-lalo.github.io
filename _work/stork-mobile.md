@@ -1,10 +1,10 @@
 ---
-title:            "Stork Mobile"
+title:            "M365 Sift"
 date:             2019-06-10 14:00:00
 year:             2019
 class:            stork
-cover:            "/img/work/storkmobile/storkmobile-cover.svg"
-color:            "#E8F2EF"
+cover:            "/img/work/storkmobile/m365Sift-cover.svg"
+color:            "#E1E1E1"
 hyperlink:        https://www.storkmobile.com
 type:             "UX / UI / Front-end"
 runin:            "I designed and implemented a components library for this fast growing international eSIM service. This progressive web app was made in very close relationship with the client's in-house development team with whom we collaborated using Slack and Git.<br/><br/>This service is now available worldwide. "

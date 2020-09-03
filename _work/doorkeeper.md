@@ -1,10 +1,10 @@
 ---
-title:            "Doorkeeper"
+title:            "Sandbox"
 date:             2018-12-10 14:00:00
 year:             2018 - Now
 class:            stork
-cover:            "/img/work/doorkeeper/doorkeeper-cover.svg"
-color:            "#E2E8F9"
+cover:            "/img/work/doorkeeper/sandbox-cover.svg"
+color:            "#FFD4D2"
 hyperlink:        https://www.doorkeeper.com
 type:             "UX / UI / Front-end"
 runin:            "I have been working with <a class='hint' href='http://www.doorkeeper.jp'>Doorkeeper</a> since July 2018. I help its founder and principal developer <a class='hint' href='http://www.tokyodev.com'>Paul McMahon</a> bring iterative UX improvements every month during a design & implementation sprint that usually runs for a few days.<br/><br/>Since we started, we've been able to completely brushup Doorkeeper's design language, create a new identity, completely overhaul the onboarding process, design a new free trial strategy, redesign the main dashboard of the app and the list goes on. Here's what Paul said about working with me:<br/><br/>

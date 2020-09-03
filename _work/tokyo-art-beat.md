@@ -1,10 +1,10 @@
 ---
-title:            "Tokyo Art Beat"
+title:            "Inclusive Interviewer"
 date:             2016-10-10 14:00:00
 year:             2016
-color:            "#F3E8EE"
+color:            "#D0E5D9"
 class:            tokyoartbeat
-cover:            "/img/work/tokyoartbeat/tab-cover.svg"
+cover:            "/img/work/tokyoartbeat/inclusiveinterviewer-cover.svg"
 hyperlink:        https://www.webcomponents.org/
 type:             "iOS / Interaction & UI Design"
 description:      "Upcoming Tokyo art events, in your pocket"

@@ -1,9 +1,9 @@
 ---
 title:            "M365 Sift"
-date:             2019-06-10 14:00:00
+date:             2019-08-10
 year:             2019
 class:            stork
-cover:            "/img/work/storkmobile/m365Sift-cover.svg"
+cover:            "/img/work/sift/m365Sift-cover.svg"
 color:            "#E1E1E1"
 hyperlink:        https://www.storkmobile.com
 type:             "UX / UI / Front-end"

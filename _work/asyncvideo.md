@@ -1,14 +1,14 @@
 ---
 title:            "Asynchronous Video"
-date:             2016-01-10 14:00:00
-year:             2016
+date:             2020-11-10 14:00:00
+year:             2020 - 2021
 class:            asyncvideo
 cover:            "/img/work/asyncvideo/asyncvideo-cover.svg"
 color:            "#D1C6FC"
 hyperlink:        https://www.webcomponents.org/
-type:             "Web / UI Design"
-description:      "A central directory for Custom Elements"
-runin:            "I worked with designers and developers from Google and AQ to create this central directory of web components. With this platform, our goal was to make web components more comprehensive to developers who weren't familiar with them while supporting and nurturing the community of developers that were already on board."
+type:             "Concept / UX / Storytelling"
+description:      "Explorations around video recording tools, playback improvements, and integrated experiences"
+runin:            "Because of the pandemic and new shifts in work, experts are estimating 25-30% of the workforce will continue to be working remotely by the end of 2021. As a result, people are working in physically separate locations or across different time zones. Real-time video and chat have helped us stay in touch but still have communication gaps. We found that preparing video with the current set of tools were difficult and time consuming, conversations around video get fragmented and cumbersome, and sometimes recording yourself just doesn't feel natural. <br></br> Our team identified opportunities and explored different solutions around tools that enable users to quickly and easily record, edit, streamline and share video presentations, video playback experiences that makes it easy to find relevant sections of a recorded meeting, and integrated asynchronous video communication features that make remote works more productive in M365. "
 layout:           post
 ---
 

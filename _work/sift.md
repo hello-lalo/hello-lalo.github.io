@@ -1,14 +1,14 @@
 ---
-title:            "M365 Sift"
+title:            "Sift"
 date:             2019-08-10
 year:             2019
 class:            stork
 cover:            "/img/work/sift/m365Sift-cover.svg"
 color:            "#E1E1E1"
 hyperlink:        https://www.storkmobile.com
-type:             "UX / UI / Front-end"
-runin:            "I designed and implemented a components library for this fast growing international eSIM service. This progressive web app was made in very close relationship with the client's in-house development team with whom we collaborated using Slack and Git.<br/><br/>This service is now available worldwide. "
-description:      "eSIM Companion App"
+type:             "Concept / Interaction / Experience"
+runin:            "An iconic, human-centered service that weaves Microsoft’s productivity ecosystem together across devices, modalities, and apps through voice"
+description:      "Vision for a horizontal service for M365"
 layout:           post
 ---
 

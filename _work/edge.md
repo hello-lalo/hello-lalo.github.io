@@ -3,12 +3,12 @@ title:            "Edge"
 date:             2018-02-10 14:00:00
 year:             2018
 class:            suiren
-cover:            "/img/work/suiren/edge-cover.svg"
+cover:            "/img/work/edge/edge-cover.svg"
 color:            "#C0E4FF"
 hyperlink:        https://www.suiren.io/
-type:             "Web / IxD & Front-End Design"
-runin:            "During my time at AQ in Tokyo, my colleague <a class='hint' href='https://twitter.com/oiorain'>Marion Bouguet</a> had been working on this incredible little project that was already fully functional and working well.<br/><br/>The concept is simple: hop from one word to another and explore the different relationships between japanese kanjis. I collaborated with her to make Suiren more pleasant to use and prettier to look at. You should <a class='hint' href='http://suiren.io/words/%E8%A8%80%E5%8F%8A'>try it</a>."
-description:      "A Kanji Relationship Explorer"
+type:             "UX / Interaction"
+runin:            "I participated in the evolution of the browser by working with Microsoft partner teams (Enterprise & Security, Office, Bing, etc.) to collaborate and innovate on the new browser for the Modern Workplace.  I was responsible for new interaction models and a holistic visual guide across different platforms and devices."
+description:      "Web Browser for Modern Work"
 layout:           post
 ---
 

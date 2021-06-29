@@ -1,7 +1,7 @@
 ---
 title:            "Edge"
-date:             2018-02-10 14:00:00
-year:             2018
+date:             2016-02-10 14:00:00
+year:             2016 - 2018
 class:            suiren
 cover:            "/img/work/edge/edge-cover.svg"
 color:            "#C0E4FF"

@@ -4,7 +4,7 @@ date:             2020-11-10 14:00:00
 year:             2020 - 2021
 class:            asyncvideo
 cover:            "/img/work/asyncvideo/asyncvideo-cover.svg"
-color:            "#D1C6FC"
+color:            "#EBEDFB"
 hyperlink:        https://www.webcomponents.org/
 type:             "Concept / UX / Storytelling"
 description:      "Improving remote work through video"

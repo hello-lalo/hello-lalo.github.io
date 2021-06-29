@@ -1,10 +1,10 @@
 ---
-title:            "Web Components"
+title:            "Asynchronous Video"
 date:             2016-01-10 14:00:00
 year:             2016
-class:            webcomponents
-cover:            "/img/work/webcomponents/webcomponents-cover.svg"
-color:            "#FCE6C0"
+class:            asyncvideo
+cover:            "/img/work/asyncvideo/asyncvideo-cover.svg"
+color:            "#D1C6FC"
 hyperlink:        https://www.webcomponents.org/
 type:             "Web / UI Design"
 description:      "A central directory for Custom Elements"
@@ -14,11 +14,11 @@ layout:           post
 
 <div class="post-content-grid">
   <div class="post-content-column column-2">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/webcomponents/webcomponents-home.png" />
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/asyncvideo/webcomponents-home.png" />
   </div>
   <div class="post-content-column column-3">
-    <img class="post-content-screen iphone" src="{{ site.baseurl }}/img/work/webcomponents/webcomponents-repo-mobile.png" />
+    <img class="post-content-screen iphone" src="{{ site.baseurl }}/img/work/asyncvideo/webcomponents-repo-mobile.png" />
   </div>
 </div>
 
-<img class="post-content-styleguide lazyload" src="{{ site.baseurl }}/img/work/webcomponents/webcomponents-cards.png" />
+<img class="post-content-styleguide lazyload" src="{{ site.baseurl }}/img/work/asyncvideo/webcomponents-cards.png" />

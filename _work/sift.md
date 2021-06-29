@@ -14,16 +14,16 @@ layout:           post
 
 <div class="post-content-grid">
   <div class="post-content-column column-3 offset-1">
-    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/storkmobile/storkmobile-details.png" />
-    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/storkmobile/storkmobile-account.png" />
+    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/storkmobile-details.png" />
+    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/storkmobile-account.png" />
   </div>
   <div class="post-content-column column-3">
-    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/storkmobile/storkmobile-home.png" />
-    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/storkmobile/storkmobile-checkout-3.png" />
+    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/storkmobile-home.png" />
+    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/storkmobile-checkout-3.png" />
   </div>
   <div class="post-content-column column-3 offset-2">
-    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/storkmobile/storkmobile-checkout-1.png" />
-    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/storkmobile/storkmobile-checkout-2.png" />
+    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/storkmobile-checkout-1.png" />
+    <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/storkmobile-checkout-2.png" />
   </div>
 </div>
 

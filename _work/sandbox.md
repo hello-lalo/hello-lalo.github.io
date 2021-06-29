@@ -14,7 +14,7 @@ layout:           post
 
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/doorkeeper/doorkeeper-dashboard.png" />
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/sandbox/doorkeeper-dashboard.png" />
   </div>
 </div>
 

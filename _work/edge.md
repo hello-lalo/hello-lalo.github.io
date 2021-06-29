@@ -8,7 +8,7 @@ color:            "#C0E4FF"
 hyperlink:        https://www.suiren.io/
 type:             "UX / Interaction"
 runin:            "I participated in the evolution of the browser by working with Microsoft partner teams (Enterprise & Security, Office, Bing, etc.) to collaborate and innovate on the new browser for the Modern Workplace.  I was responsible for new interaction models and a holistic visual guide across different platforms and devices."
-description:      "Web Browser for Modern Work"
+description:      "A web browser for modern work"
 layout:           post
 ---
 

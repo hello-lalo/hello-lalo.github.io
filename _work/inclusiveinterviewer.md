@@ -8,7 +8,7 @@ cover:            "/img/work/inclusiveinterviewer/inclusiveinterviewer-cover.svg
 hyperlink:        https://www.webcomponents.org/
 type:             "iOS / Interaction & UI Design"
 description:      "Upcoming Tokyo art events, in your pocket"
-runin:            "I had the chance to work on Tokyoites' beloved &#x000AB;TAB&#x000BB; app. Whether you want to search for photography exhibitions in your neighbourhood or plan a design show weekend in the city, chances are you are going to love this app.<br/><br/>With this new version, our team wanted to bring better discovery options for art-goers but also provide them with additional convenience in the form of social event bookmarking and user reviews."
+runin:            "My team and I created an award-winning VR experience that prepares individuals with cognitive disabilities for job interviews."
 layout:           post
 ---
 

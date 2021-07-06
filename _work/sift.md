@@ -1,7 +1,7 @@
 ---
 title:            "Sift"
-date:             2019-08-10
-year:             2019
+date:             2018-08-10
+year:             2018 - 2019
 class:            stork
 cover:            "/img/work/sift/m365Sift-cover.svg"
 color:            "#E1E1E1"

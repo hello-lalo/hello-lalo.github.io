@@ -1,6 +1,6 @@
 ---
 title:            "Inclusive Interviewer"
-date:             2018-03 -10 14:00:00
+date:             2018-03-10 14:00:00
 year:             2018
 color:            "#D0E5D9"
 class:            tokyoartbeat

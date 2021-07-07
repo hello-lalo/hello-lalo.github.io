@@ -15,7 +15,7 @@ layout:           post
 
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <video class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/interviewcoach/interviewcoachdemo.mp4"></video>
+    <video class="post-content-screen desktop" src="https://media.githubusercontent.com/media/hello-lalo/hello-lalo.github.io/master/img/work/interviewcoach/interviewcoachdemo720.mp4"></video>
   </div>
 </div>
 

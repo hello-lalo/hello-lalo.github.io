@@ -15,7 +15,7 @@ layout:           post
 
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <video class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/interviewcoach/interviewcoachdemo720.mp4" autoplay loop></video>
+    <video class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/interviewcoach/interviewcoachdemo.mp4"></video>
   </div>
 </div>
 

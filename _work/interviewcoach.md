@@ -1,10 +1,10 @@
 ---
-title:            "Inclusive Interviewer"
+title:            "Interview Coach"
 date:             2018-03-10 14:00:00
 year:             2018
 color:            "#D0E5D9"
 class:            tokyoartbeat
-cover:            "/img/work/inclusiveinterviewer/inclusiveinterviewer-cover.svg"
+cover:            "/img/work/interviewcoach/interviewcoach-cover.svg"
 hyperlink:        https://www.webcomponents.org/
 type:             "Concept / Interaction & UI Design / Virtual Reality"
 description:      "VR App for neurodiverse individuals prepare for job interviews "
@@ -14,17 +14,23 @@ layout:           post
 ---
 
 <div class="post-content-grid">
-  <div class="post-content-column column-3 offset-1">
-    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/inclusiveinterviewer/tab-home.png" />
-    <video class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/inclusiveinterviewer/tab-card-to-card.mp4" autoplay loop></video>
-    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/inclusiveinterviewer/tab-login.png" />
-  </div>
-  <div class="post-content-column column-3">
-    <img class="post-content-screen iphone radius-tab lazyload" src="{{ site.baseurl }}/img/work/inclusiveinterviewer/tab-en.png" />
-    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/inclusiveinterviewer/tab-browse.png" />
-  </div>
-  <div class="post-content-column column-3 offset-2">
-    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/inclusiveinterviewer/tab-map.png" />
-    <img class="post-content-screen iphone radius-tab lazyload" src="{{ site.baseurl }}/img/work/tokyoartbeat/tab-jp.png" />
+  <div class="post-content-column column-1">
+    <video class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/interviewcoach/interviewcoachdemo.mp4" autoplay loop></video>
   </div>
 </div>
+
+<!-- <div class="post-content-grid">
+  <div class="post-content-column column-3 offset-1">
+    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/interviewcoach/tab-home.png" />
+    <video class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/interviewcoach/tab-card-to-card.mp4" autoplay loop></video>
+    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/interviewcoach/tab-login.png" />
+  </div>
+  <div class="post-content-column column-3">
+    <img class="post-content-screen iphone radius-tab lazyload" src="{{ site.baseurl }}/img/work/interviewcoach/tab-en.png" />
+    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/interviewcoach/tab-browse.png" />
+  </div>
+  <div class="post-content-column column-3 offset-2">
+    <img class="post-content-screen iphone lazyload" src="{{ site.baseurl }}/img/work/interviewcoach/tab-map.png" />
+    <img class="post-content-screen iphone radius-tab lazyload" src="{{ site.baseurl }}/img/work/interviewcoach/tab-jp.png" />
+  </div>
+</div> -->

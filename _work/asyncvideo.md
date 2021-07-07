@@ -13,12 +13,7 @@ layout:           post
 ---
 
 <div class="post-content-grid">
-  <div class="post-content-column column-2">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/asyncvideo/webcomponents-home.png" />
-  </div>
-  <div class="post-content-column column-3">
-    <img class="post-content-screen iphone" src="{{ site.baseurl }}/img/work/asyncvideo/webcomponents-repo-mobile.png" />
+  <div class="post-content-column column-1">
+    <video controls class="post-content-screen desktop" src="https://media.githubusercontent.com/media/hello-lalo/hello-lalo.github.io/master/img/work/asyncvideo/asyncvideo-overview.mp4"></video>
   </div>
 </div>
-
-<img class="post-content-styleguide lazyload" src="{{ site.baseurl }}/img/work/asyncvideo/webcomponents-cards.png" />

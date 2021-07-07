@@ -14,15 +14,6 @@ layout:           post
 
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/edge/suiren-keyword.png" />
-  </div>
-</div>
-
-<div class="post-content-grid">
-  <div class="post-content-column column-2">
-    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/edge/suiren-keyword-tablet.png" />
-  </div>
-  <div class="post-content-column column-3">
-    <img class="post-content-screen iphone" src="{{ site.baseurl }}/img/work/edge/suiren-keyword-mobile.png" />
+    <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/edge/edgewalkthru.gif" />
   </div>
 </div>

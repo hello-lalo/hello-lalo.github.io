@@ -15,10 +15,11 @@ layout:           post
 <div class="post-content-grid">
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/sift/m365Sift-patterns.png" />
-  </div>
-  <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/sift/m365Sift-architecture.png" />
   </div>
+</div>
+
+<div class="post-content-grid">
   <div class="post-content-column column-3 offset-1">
     <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/m365Sift-principle01.png" />
   </div>
@@ -28,9 +29,11 @@ layout:           post
   <div class="post-content-column column-3 offset-2">
     <img class="post-content-screen iphone lazyload radius" src="{{ site.baseurl }}/img/work/sift/m365Sift-principle03.png" />
   </div>
+</div>
+
+<div class="post-content-grid">
   <div class="post-content-column column-1">
     <img class="post-content-screen desktop" src="{{ site.baseurl }}/img/work/sift/m365Sift-usecases.png" />
   </div>
-
 </div>
 

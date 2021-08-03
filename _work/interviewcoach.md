@@ -16,7 +16,7 @@ driveId: 1Nf4EBOZsuAysPGDZRSM0zRt9RbkN7JKZ/preview
 
 <div class="post-content-grid">
   <div class="post-content-column column-1">
-  {% include googleDrivePlayer.html id=page.driveId %}
+  {% include googleDrivePlayer.html id=page.1Nf4EBOZsuAysPGDZRSM0zRt9RbkN7JKZ/preview %}
     <!-- <video controls class="post-content-screen desktop" src="https://media.githubusercontent.com/media/hello-lalo/hello-lalo.github.io/master/img/work/interviewcoach/interviewcoachdemo720.mp4"></video> -->
   </div>
 </div>
